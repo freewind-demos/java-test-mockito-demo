@@ -1,6 +1,6 @@
-Java Hello World Demo
+Java Test Mockito Demo
 =====================
 
-Use maven for Java.
-
-Run `Hello.java` in your IDE.
+```
+mvn test
+```
